@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Poluluman</string>
+
+    <string name="nb_pololu">Nombre de Pololu : </string>
+    <string name="next">Suivant</string>
+
+    <string name="grid_size">Taille de grille : </string>
+</resources>
